@@ -1190,15 +1190,6 @@ else:
     - **Word** (.docx) - Microsoft Word documents
     - **Text** (.txt) - Plain text files
 
-    ### What We'll Fix:
-    1. Add professional title page per standard format
-    2. Add Cast of Characters page
-    3. Character names in ALL CAPS, indented
-    4. Dialogue full-width, left-aligned
-    5. Stage directions indented in parentheses
-    6. Courier 12pt font throughout
-    7. Proper margins (1.5" left, 1" top/right/bottom)
-    8. Page numbers in upper right corner
     """)
 
 # Footer
